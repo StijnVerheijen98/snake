@@ -1,0 +1,12 @@
+/*  CSS for the game  */
+.food {
+    width: 20px;
+    height: 20px;
+    background: #FF2400;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+html{
+    background-color:darkslateblue;
+}
